@@ -22,7 +22,8 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: thelehhman
-    github:  Jayrod246/Open3dmm
+    github:  "Jayrod246/Open3dmm"
+    discord: "wjKqZCV"
     # linkedIn: in/thelehhman
     # rss: rss
     # dribbble: jekyll
