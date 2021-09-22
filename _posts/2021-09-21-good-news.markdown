@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Good News - The Project Isn't Dead!"
+date:   2021-09-21 22:23:00 -0400
+categories: progress
+---
+
+Good news everyone!
+
+I'm finally getting around to the task of refactoring the code (and making successful modifications that don't break the existing code). Today I've abstracted out the windowing procedures, mouse/keyboard input and the like. This will come in handy one day if we wish to support touch screens, web browser etc.
+
+Tomorrow I start extracting away all the ugly native graphics calls that are riddled all over the place, to make the code easier to read and more portable, hopefully.
+
+I'm going to try my best to finish any cleaning necessary and publish the project source entirely. That way, all you programmers out there can start experimenting with it and contribute.
+
+Until next time..
